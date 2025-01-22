@@ -3,7 +3,8 @@
 void testMethod1()
   {
   //First command x = y + z
-  //Second commnad print(x)
+  //Second command print(x)
+  // Edit made by Jedidiah Suleh_240176367
 
 
   //Last line print('Good bye')
